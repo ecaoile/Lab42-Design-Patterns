@@ -11,9 +11,14 @@ namespace Lab42_Design_Patterns.Classes
             Console.WriteLine("Grabbing paper for the page.");
         }
 
+        public void Type()
+        {
+            Console.WriteLine("Typing out the text for the page.");
+        }
+
         public void Print()
         {
-            Console.WriteLine("Printing the text for the page.");
+            Console.WriteLine("Printing out the page.");
         }
 
         public void Package()

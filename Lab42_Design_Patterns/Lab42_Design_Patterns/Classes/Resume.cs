@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Lab42_Design_Patterns.Classes
 {
-    class Resume : Document
+    public class Resume : Document
     {
-        protected override Page CreatePage(string type)
+        public override Page CreatePage(string type)
         {
             Console.WriteLine("We are creating a page for a resume!");
-            //return 
+            return PageWordProcessor.CreatePage(type);
         }
     }
 }

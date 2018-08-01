@@ -6,5 +6,6 @@ namespace Lab42_Design_Patterns.Classes
 {
     public class References : Page
     {
+
     }
 }

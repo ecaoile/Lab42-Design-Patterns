@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Lab42_Design_Patterns.Classes
 {
-    class PageWordProcessor
+    public class PageWordProcessor
     {
         public static Page CreatePage(string pageType)
         {
-            Console.WriteLine($"Creating a page of {pageType}");
+            Console.WriteLine($"Creating a {pageType} page.");
             Page page = null;
 
             switch (pageType.ToLower())
