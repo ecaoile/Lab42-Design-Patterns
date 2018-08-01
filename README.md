@@ -1,4 +1,4 @@
-# Lab42-Design-Patterns
+# Lab 42: Design Patterns
 CODE: Design Patterns assignment for Code Fellows 401 C#/ASP.NET course
 
 **Author**: Earl Jay Caoile <br />
@@ -30,6 +30,6 @@ This application is created using ASP.NET Core 2.1 Console applicaitons. <br />
 *Type of Applicaiton*: Console Application <br />
 
 ## Change Log
-06-10-2018 2:00 PM - initial scaffolding
-06-10-2018 3:45 PM - finished program
-06-10-2018 4:10 PM - finished readme
+06-10-2018 2:00 PM - initial scaffolding <br />
+06-10-2018 3:45 PM - finished program <br />
+06-10-2018 4:10 PM - finished readme <br />
